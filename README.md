@@ -19,3 +19,6 @@ python ./datasets/prprocess.py --dataset diginetica
 ```sh
 python ./pytorch_code/main_new.py --hier 2 --dataset diginetica
 ```
+文献
+
+Yan-Hui Chen, Ling Huang, Chang-Dong Wang and Jian-Huang Lai. "Hybrid-Order Gated Graph Neural Network for Session-Based Recommendation", TII2022
